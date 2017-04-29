@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Animated Sprites">
+      <UniqueIdentifier>{2630175f-2f1e-4537-a8b1-e12c177f495f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Animated Sprites">
+      <UniqueIdentifier>{c8f93cdf-c9fb-40fb-b67f-1d34b39fd571}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HitLine.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuItem.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="Note.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="Ready.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultsScreen.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreTracker.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionBox.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedSprite.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="NoteBreak.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="NoteMiss.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="HitGlow.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderBoard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseScreen.cpp">
+      <Filter>Source Files\Animated Sprites</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HitLine.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuItem.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="Note.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="Ready.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="ResultsScreen.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreTracker.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionBox.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedSprite.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="NoteBreak.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="NoteMiss.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="HitGlow.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBoard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseScreen.h">
+      <Filter>Header Files\Animated Sprites</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
